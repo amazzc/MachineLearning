@@ -2,9 +2,9 @@
 ### 安装运行环境
 - python官网下载安装。
 
-- pip3 install numpy, scipy, pandas, matplotlib, scikit-learn
+- pip3 install numpy scipy pandas matplotlib scikit-learn
 
-- pip3 install tensorflow, keras
+- pip3 install tensorflow keras
 
   > 如果遇到 "utf-8"错误，尝试修改为"gbk"。
 
